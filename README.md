@@ -9,6 +9,8 @@ Tarefas:
     - Criar uma branch 
     - git clone -b primeira_data_stack https://github.com/Elgrably/airbyte.git
     - Para os alunos: git clone -b [seu_branch] https://github.com/[seu_github]/airbyte.git
+    - cd airbyte
+    - docker-compose up
 
 - Subir o Airflow via Docker
 
